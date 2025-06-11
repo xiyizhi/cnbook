@@ -1,7 +1,3 @@
-当然可以，下面是一个为你的 GitHub 项目 [xiyizhi/cnbook](https://github.com/xiyizhi/cnbook) 编写的简洁且实用的 `README.md` 模板，适合用于语文教材项目：
-
----
-
 ```markdown
 # cnbook 中文语文教材资源库
 
